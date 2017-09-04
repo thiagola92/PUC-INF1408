@@ -1,2 +1,2 @@
 # Aula 2
-Escolha do tema
+Escolhi o tema salão de beleza
